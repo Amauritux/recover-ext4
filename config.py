@@ -8,7 +8,7 @@ from pathlib import Path
 # Imagem
 # ----------------------------------------------------------------------
 
-IMAGE_FILE = Path("CelMarcelo_3.img")
+IMAGE_FILE = Path("/media/dtiadj9/HD-EXTERNO/CelMarcelo_3.img")
 
 # Início da partição EXT4 dentro da imagem
 PARTITION_OFFSET = 6293504 * 512
